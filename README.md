@@ -1,5 +1,6 @@
 # DOOM
 DOOM em PDF, é loucura mas funciona!
+ABRA O ARQUIVO NO NAVEGADOR GOOGLE!
 
 # DOOM (1993)
 
